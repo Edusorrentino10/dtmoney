@@ -32,6 +32,10 @@ $ npm install @types/react
 $ npm install @types/styled-components
 ```
 
+<h2 align="center"><img src="./src/assets/dtmoney-print-home"></h2>
+<h2 align="center"><img src="./src/assets/dtmoney-print-transaction"></h2>
+
+
 
 Feito por <a href="https://github.com/Edusorrentino10">Eduardo Sorrentino</a>.
 
