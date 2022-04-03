@@ -32,8 +32,8 @@ $ npm install @types/react
 $ npm install @types/styled-components
 ```
 
-<h2 align="center"><img src="./src/assets/dtmoney-print-home"></h2>
-<h2 align="center"><img src="./src/assets/dtmoney-print-transaction"></h2>
+<h2 align="center"><img src="./src/assets/dtmoney-print-home.png"></h2>
+<h2 align="center"><img src="./src/assets/dtmoney-print-transaction.png"></h2>
 
 
 
